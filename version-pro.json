@@ -1,5 +1,5 @@
 {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "changelog": ["This update brings dark mode to 3 new apps and RoadDrop", "With RoadOS 1.4 you can now block people so that they can no longer call or message you.", "Italian is now available as Language", "Important security vulnerability in the Valet app has been fixed, updating is recommended."],
     "type": "important"
 }
