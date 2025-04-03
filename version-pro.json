@@ -1,5 +1,9 @@
 {
     "version": "1.4.2",
-    "changelog": ["This updated added possibility to edit the Mail domain ( @cloud.org )", "We added support for Fivemanage API v2 ( offers faster image uploads )", "1.4.2 brings bugfixes to the Weather App, updating is recommended."],
+    "changelog": [
+       "This update adds the ability to edit the mail domain (@cloud.org).",
+       "Added support for Fivemanage API v2, which offers faster image uploads.",
+       "Version 1.4.2 includes bug fixes for the Weather App — updating is recommended."
+    ],
     "type": "important"
 }
