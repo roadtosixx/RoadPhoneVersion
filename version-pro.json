@@ -1,5 +1,5 @@
 {
-    "version": "1.4.1",
-    "changelog": ["This update brings dark mode to 3 new apps and RoadDrop", "With RoadOS 1.4 you can now block people so that they can no longer call or message you.", "Italian is now available as Language", "1.4.1 brings bugfixes to Connect App & fixed blank screen in 3 apps, updating is recommended."],
+    "version": "1.4.2",
+    "changelog": ["This updated added possibility to edit the Mail domain ( @cloud.org )", "We added support for Fivemanage API v2 ( offers faster image uploads )", "1.4.2 brings bugfixes to the Weather App, updating is recommended."],
     "type": "important"
 }
