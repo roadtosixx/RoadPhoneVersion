@@ -1,9 +1,9 @@
 {
-    "version": "1.4.3",
+    "version": "1.5.0",
     "changelog": [
-       "This update adds the ability to edit the mail domain (@cloud.org).",
-       "Added support for Fivemanage API v2, which offers faster image uploads.",
-       "Version 1.4.3 includes bug fixes for the VideoCall App — updating is recommended."
+       "This update brings a new look to your Phone.",
+       "Added White & Dark Icons",
+       "Made with <3 by RoadToSix"
     ],
     "type": "important"
 }
