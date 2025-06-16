@@ -1,5 +1,10 @@
 {
-    "version": "1.7.1",
-    "changelog": ["This update brings dark mode to 3 new apps and RoadDrop", "With RoadOS 1.7 you can now block people so that they can no longer call or message you.", "Italian is now available as Language", "1.7.1 brings bugfixes to the VideoCall App updating is recommended."],
+    "version": "1.8.0",
+    "changelog": [
+   "This update introduces a fresh new look for your phone.",
+   "Added both light and dark mode icons.",
+   "Added the ability to delete your own Connect posts",
+   "This update also fixes some serious bugs, update is recommeded."
+    ],
     "type": "important"
 }
