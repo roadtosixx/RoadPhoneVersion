@@ -1,10 +1,11 @@
 {
-    "version": "1.5.1",
+    "version": "1.6.0",
     "changelog": [
-   "This update introduces a fresh new look for your phone.",
-   "Added both light and dark mode icons.",
-   "v1.5.1 added the ability to delete your own Connect posts",
-   "v1.5.1 also fixes some serious bugs, update is recommeded."
+   "This update introduces new features to the Music App.",
+   "-Jump to a specific timestamp in any track – get to your favorite part instantly.",
+   "-Automatic playback of the next song as soon as the current one ends – seamless listening, non-stop.",
+   "-On the lock screen, you’ll now see the track's album cover, with the background adapting to match the artwork for a beautiful visual experience.",
+   "-On devices with Island, you can now control the track’s timestamp directly from the island – simple and intuitive."
     ],
     "type": "important"
 }
