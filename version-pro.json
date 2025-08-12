@@ -1,11 +1,12 @@
 {
-    "version": "1.6.5",
+    "version": "1.6.6",
     "changelog": [
    "-Redesigned Settings app with a fresh, modern look.",
    "-Revamped Memes app interfacey.",
    "-Updated Radio app UI – now supports both Light and Dark Mode.",
    "-Fixed an issue where custom apps failed to load properly.",
-   "-Your lock screen background now dims automatically when notifications appear."
+   "-Your lock screen background now dims automatically when notifications appear.",
+   "-v1.6.6 update also fixes some serious bugs with Calls, update is recommeded."
     ],
     "type": "important"
 }
