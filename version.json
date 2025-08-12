@@ -1,10 +1,7 @@
 {
-    "version": "1.8.0",
+    "version": "1.8.1",
     "changelog": [
-   "This update introduces a fresh new look for your phone.",
-   "Added both light and dark mode icons.",
-   "Added the ability to delete your own Connect posts",
-   "This update also fixes some serious bugs, update is recommeded."
+   "1.8.1 update also fixes some serious bugs with Calls, update is recommeded."
     ],
     "type": "important"
 }
