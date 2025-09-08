@@ -1,5 +1,10 @@
 {
-    "version": "1.6.1",
-    "changelog": ["This update brings dark mode to 2 new apps and RoadDrop", "With RoadOS 1.6 you can now block people so that they can no longer call or message you.", "Italian is now available as Language"],
-    "type": "important"
+  "version": "1.7.0",
+  "changelog": [
+    "The phone interface has been completely redesigned to deliver a more modern and consistent look.",
+    "More than 20 apps now feature smooth animations, making navigation and interaction more engaging.",
+    "15 apps have been visually refreshed with updated layouts, providing a cleaner and more user-friendly experience.",
+    "The Notes app now supports pinning notes, allowing you to keep important information easily accessible at all times."
+  ],
+  "type": "important"
 }
