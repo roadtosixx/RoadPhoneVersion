@@ -1,7 +1,10 @@
 {
-    "version": "1.8.1",
-    "changelog": [
-   "1.8.1 update fixes some serious bugs with Calls, update is recommeded."
-    ],
-    "type": "important"
+  "version": "1.9.0",
+  "changelog": [
+    "The phone interface has been completely redesigned to deliver a more modern and consistent look.",
+    "More than 20 apps now feature smooth animations, making navigation and interaction more engaging.",
+    "15 apps have been visually refreshed with updated layouts, providing a cleaner and more user-friendly experience.",
+    "The Notes app now supports pinning notes, allowing you to keep important information easily accessible at all times."
+  ],
+  "type": "important"
 }
