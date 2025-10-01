@@ -1,7 +1,7 @@
 {
-  "version": "1.7.2",
+  "version": "1.8.0",
   "changelog": [
-    "You can now change the color/font and display type (Glass or Solid) of the time on the lock screen."
+    "You can now go live on RoadPhone! Enjoy streaming your screen to a wider audience."
   ],
   "type": "important"
 }
