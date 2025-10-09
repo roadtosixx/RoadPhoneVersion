@@ -2,7 +2,7 @@
   "version": "1.8.1",
   "changelog": [
     "You can now go live on RoadPhone! Enjoy streaming your screen to a wider audience.",
-    "Please update to version 1.8.x+; otherwise, the music server will shut down on October 10, 2025."
+    "Please update to version 1.8.x+; otherwise, the music app will shut down on October 10, 2025."
   ],
   "type": "important"
 }
