@@ -1,7 +1,7 @@
 {
   "version": "1.7.3",
   "changelog": [
-    "Please update to this version; otherwise, the music server will shut down on October 10, 2025."
+    "Please update to this version; otherwise, the music app will shut down on October 10, 2025."
   ],
   "type": "important"
 }
