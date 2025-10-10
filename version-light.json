@@ -1,7 +1,7 @@
 {
-  "version": "1.7.3",
+  "version": "1.7.4",
   "changelog": [
-    "Please update to this version; otherwise, the music app will shut down on October 10, 2025."
+    "Music App bugfix"
   ],
   "type": "important"
 }
