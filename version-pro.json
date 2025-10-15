@@ -1,8 +1,7 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "changelog": [
-    "You can now go live on RoadPhone! Enjoy streaming your screen to a wider audience.",
-    "Please update to version 1.8.x+; otherwise, the music app will shut down on October 10, 2025."
+    "We identified and resolved an issue causing the FiveM UI to freeze when closing the phone while an animation was playing."
   ],
   "type": "important"
 }
