@@ -1,7 +1,7 @@
 {
-  "version": "1.7.4",
+  "version": "1.7.5",
   "changelog": [
-    "Music App bugfix"
+    "We identified and resolved an issue causing the FiveM UI to freeze when closing the phone while an animation was playing."
   ],
   "type": "important"
 }
