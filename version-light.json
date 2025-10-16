@@ -1,5 +1,5 @@
 {
-  "version": "1.7.5",
+  "version": "1.7.6",
   "changelog": [
     "We identified and resolved an issue causing the FiveM UI to freeze when closing the phone while an animation was playing."
   ],
