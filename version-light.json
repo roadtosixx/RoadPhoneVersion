@@ -1,7 +1,7 @@
 {
-  "version": "1.7.6",
+  "version": "1.7.7",
   "changelog": [
-    "We identified and resolved an issue causing the FiveM UI to freeze when closing the phone while an animation was playing."
+    "We identified and resolved an issue causing the Phone is stuck after getting a Notify."
   ],
   "type": "important"
 }
