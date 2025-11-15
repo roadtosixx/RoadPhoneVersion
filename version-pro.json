@@ -1,7 +1,11 @@
 {
-  "version": "1.8.5",
+  "version": "1.9.0",
   "changelog": [
-    "We identified and resolved an issue in our Mail App."
+    "VisionTube is working again",
+    "Jaksam Inventory metadata support",
+    "Streamermode update",
+    "Connect App bugfixes",
+    "Save Picture button works again"
   ],
   "type": "important"
 }
