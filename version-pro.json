@@ -1,11 +1,11 @@
 {
   "version": "1.9.0",
   "changelog": [
-    "VisionTube is working again",
-    "Jaksam Inventory metadata support",
-    "Streamermode update",
-    "Connect App bugfixes",
-    "Save Picture button works again"
+    "-VisionTube is working again",
+    "-Jaksam Inventory metadata support",
+    "-Streamermode update",
+    "-Connect App bugfixes",
+    "-Save Picture button works again"
   ],
   "type": "important"
 }
