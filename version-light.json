@@ -1,7 +1,7 @@
 {
-  "version": "1.7.8",
+  "version": "1.7.9",
   "changelog": [
-    "We identified and resolved an issue in our Mail App."
+    "Bugfixes"
   ],
   "type": "important"
 }
