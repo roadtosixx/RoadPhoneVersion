@@ -1,7 +1,10 @@
 {
-  "version": "1.9.7",
+  "version": "1.9.8",
   "changelog": [
-    "We identified and resolved an issue in our Mail App."
+    "-VisionTube is working again",
+    "-Streamermode update",
+    "-Connect App bugfixes",
+    "-Save Picture button works again"
   ],
   "type": "important"
 }
