@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "changelog": [
     "2.0.0 is finally here!",
     "Metadata support added",
@@ -7,7 +7,7 @@
     "Fully redesigned TweetWave, Crypto, Taxi, Service, Banking, Advertisment apps",
     "Tons of bug fixes, quality improvements & new features",
     "Native support for QBOX for better performance",
-    "2.0.1 offers several bug fixes." 
+    "2.0.2 offers several bug fixes." 
   ],
   "type": "important"
 }
