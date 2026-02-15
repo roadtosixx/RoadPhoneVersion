@@ -1,7 +1,11 @@
 {
-  "version": "1.9.9",
+  "version": "2.0.0",
   "changelog": [
-    "-Bugfixes"
+    "2.0.0 is here!",
+    "-New Music App",
+    "-New Games!",
+    "-Bugfixes",
+    "Please update as soon as possible, old Music app will shutdown 22 February!"
   ],
   "type": "important"
 }
