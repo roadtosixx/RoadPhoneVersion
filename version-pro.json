@@ -1,7 +1,8 @@
 {
-  "version": "2.0.9",
+  "version": "2.1.0",
   "changelog": [
-    "Please update as soon as possible, old Music app will shutdown 22 February!"
+    "Please update as soon as possible, old Music app will shutdown 22 February!",
+    "Support for our new resource RoadWatch, best Smartwatch Script in FiveM"
   ],
   "type": "important"
 }
