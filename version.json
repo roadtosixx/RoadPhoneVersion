@@ -1,11 +1,12 @@
 {
-  "version": "2.0.0",
-  "changelog": [
-    "2.0.0 is here!",
-    "-New Music App",
-    "-New Games!",
-    "-Bugfixes",
-    "Please update as soon as possible, old Music app will shutdown 22 February!"
-  ],
+  "version": "2.1.0",
+"changelog": [
+   "2.1.0 is finally here!",
+   "Support for our new resource RoadWatch, best Smartwatch Script in FiveM",
+   "RoadPhone is now available for ESX, QBCore, QBOX & Standalone",
+   "Fully redesigned TweetWave, Crypto, Taxi, Service, Banking, Advertisment apps",
+   "Tons of bug fixes, quality improvements & new features",
+   "Native support for QBOX for better performance"
+],
   "type": "important"
 }
