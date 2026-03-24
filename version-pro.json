@@ -1,8 +1,9 @@
 {
-  "version": "2.1.2",
+  "version": "2.2.0",
   "changelog": [
-    "Please update as soon as possible, old Music app will shutdown 22 February!",
-    "Support for our new resource RoadWatch, best Smartwatch Script in FiveM",
+    "Battery system added",
+    "New Simcard system added",
+    "You can now create Photo albums in the Gallery app",
     "Bugfixes"
   ],
   "type": "important"
