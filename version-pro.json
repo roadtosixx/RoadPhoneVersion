@@ -1,9 +1,8 @@
 {
-  "version": "2.2.0",
+  "version": "2.3.0",
   "changelog": [
-    "Battery system added",
-    "New Simcard system added",
-    "You can now create Photo albums in the Gallery app",
+    "Admin Menu added",
+    "VideoCall supports now 30fps, filters and emoji reactions",
     "Bugfixes"
   ],
   "type": "important"
