@@ -1,7 +1,7 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.5",
   "changelog": [
-    "Admin Menu added",
+    "Metadata issues fixed",
     "VideoCall supports now 30fps, filters and emoji reactions",
     "Bugfixes"
   ],
