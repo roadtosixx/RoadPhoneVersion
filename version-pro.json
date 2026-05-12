@@ -1,5 +1,5 @@
 {
-  "version": "2.3.5",
+  "version": "2.3.6",
   "changelog": [
     "Metadata issues fixed",
     "VideoCall supports now 30fps, filters and emoji reactions",
