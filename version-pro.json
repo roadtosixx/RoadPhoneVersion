@@ -1,9 +1,7 @@
 {
-  "version": "2.3.6",
+  "version": "2.4.0",
   "changelog": [
-    "Metadata issues fixed",
-    "VideoCall supports now 30fps, filters and emoji reactions",
-    "Bugfixes"
+    "Darkchat app added"
   ],
   "type": "important"
 }
