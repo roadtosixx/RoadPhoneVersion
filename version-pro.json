@@ -1,7 +1,11 @@
 {
-  "version": "2.5.2",
+  "version": "2.6.0",
   "changelog": [
-    "The biggest update since 2.0!",
+    "Added Loop app",
+    "Snapy is now Glimpse",
+    "VideoCall & Livestream blackscreen issue fixed",
+    "You can now delete Notes",
+    "You can now link different social media accounts from you in apps",
     "Many new updates, features and bugfixes!"
   ],
   "type": "important"
