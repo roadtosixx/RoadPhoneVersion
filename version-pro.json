@@ -1,12 +1,7 @@
 {
-  "version": "2.6.0",
+  "version": "2.7.0",
   "changelog": [
-    "Added Loop app",
-    "Snapy is now Glimpse",
-    "VideoCall & Livestream blackscreen issue fixed",
-    "You can now delete Notes",
-    "You can now link different social media accounts from you in apps",
-    "Many new updates, features and bugfixes!"
+    "Added RoadPhone Fold your foldable Smartphone"
   ],
   "type": "important"
 }
