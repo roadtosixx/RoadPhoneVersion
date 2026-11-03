@@ -1,7 +1,9 @@
 {
-  "version": "2.9.2",
+  "version": "2.9.3",
   "changelog": [
-    "Bugfixes & Stability"
+    "Support for RoadPad v3",
+    "Business calls — calls to configured business numbers ring available employees of that job. The first employee to answer takes the call and stops the other phones ringing.",
+    "Browser App"
   ],
   "type": "important"
 }
